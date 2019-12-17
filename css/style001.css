@@ -1,0 +1,30 @@
+
+body {
+
+    background-color:rgb(201, 148, 148);
+
+}
+
+h1{
+    color: maroon;
+    margin-left: 40px;
+
+} 
+
+h3{
+    font-family: arial;
+    color: rgb(18, 18, 126);
+}
+
+#output {
+    font-family: arial;
+    color: rgb(230, 255, 116);
+}
+
+.c1 {
+    font-family: Arial;
+}
+
+.c2{
+    color: firebrick;
+}
